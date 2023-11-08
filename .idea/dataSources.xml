@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="calcolatrice_rpn@localhost" uuid="533a4e19-adbe-41b5-9514-62848427bf39">
+    <data-source source="LOCAL" name="calcolatrice_rpn@localhost" uuid="ce7f06c6-936c-4f1e-a6be-9dcb3cf21ff1">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
